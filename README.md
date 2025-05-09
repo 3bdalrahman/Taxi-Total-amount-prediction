@@ -105,8 +105,8 @@ Meet the talented data scientists behind this project:
 - LinkedIn: [Abdulrhman Ahmed](https://www.linkedin.com/in/abdulrhman-ahmed03/)
 
 ### Abdalla Gamal
-- GitHub: [Abdulrhman Ahmed](https://github.com/3bdalrahman)
-- LinkedIn: [Abdulrhman Ahmed](https://www.linkedin.com/in/abdulrhman-ahmed03/)
+- GitHub: [Abdalla Gamal](https://github.com/Abdalla28)
+- LinkedIn: [Abdalla Gamal](www.linkedin.com/in/abdalla-gamal-b24733228)
 
 ### Amr Elsayed
 - GitHub: [Abdulrhman Ahmed](https://github.com/3bdalrahman)
